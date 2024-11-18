@@ -92,3 +92,14 @@ footer {
     padding: 15px 0;
     margin-top: 20px;
 }
+figure {
+    text-align: center; /* Centre la légende */
+    margin: 20px auto;
+}
+
+figcaption {
+    font-size: 0.9em; /* Légende plus petite */
+    color: #666; /* Texte grisé */
+    margin-top: 5px;
+}
+
